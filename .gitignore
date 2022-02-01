@@ -1,0 +1,6 @@
+./cvpr
+./nips
+./iccv
+*.py
+*.json
+*.txt
