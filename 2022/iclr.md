@@ -2,64 +2,51 @@
 ### oral
 1. [*](#iclr_oral18) CycleMLP: A MLP-like Architecture for Dense Prediction
 ### spotlight
-2. [*](#iclr_spotlight5) Generative Principal Component Analysis
-3. [*](#iclr_spotlight14) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-4. [*](#iclr_spotlight29) Memory Replay with Data Compression for Continual Learning
-5. [*](#iclr_spotlight30) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-6. [*](#iclr_spotlight55) Generative Principal Component Analysis
-7. [*](#iclr_spotlight64) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-8. [*](#iclr_spotlight79) Memory Replay with Data Compression for Continual Learning
-9. [*](#iclr_spotlight80) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-10. [*](#iclr_spotlight105) Generative Principal Component Analysis
-11. [*](#iclr_spotlight114) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-12. [*](#iclr_spotlight129) Memory Replay with Data Compression for Continual Learning
-13. [*](#iclr_spotlight130) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-14. [*](#iclr_spotlight155) Generative Principal Component Analysis
-15. [*](#iclr_spotlight164) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-16. [*](#iclr_spotlight179) Memory Replay with Data Compression for Continual Learning
-17. [*](#iclr_spotlight180) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
+2. [*](#iclr_spotlight70) On the Connection between Local Attention and Dynamic Depth-wise Convolution
+3. [*](#iclr_spotlight72) Omni-Dimensional Dynamic Convolution
+4. [*](#iclr_spotlight100) Autoregressive Quantile Flows for Predictive Uncertainty Estimation
 ### poster
-18. [*](#iclr_poster5) Generative Principal Component Analysis
-19. [*](#iclr_poster14) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-20. [*](#iclr_poster29) Memory Replay with Data Compression for Continual Learning
-21. [*](#iclr_poster30) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-22. [*](#iclr_poster75) Multi-objective Optimization by Learning Space Partition
-23. [*](#iclr_poster76) Auto-scaling Vision Transformers without Training
-24. [*](#iclr_poster114) FP-DETR: Detection Transformer Advanced by Fully Pre-training
-25. [*](#iclr_poster117) Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception
-26. [*](#iclr_poster121) VOS: Learning What You Don't Know by Virtual Outlier Synthesis
-27. [*](#iclr_poster146) PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions
-28. [*](#iclr_poster167) Learning Transferable Reward for Query Object Localization with Policy Adaptation
-29. [*](#iclr_poster202) QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization
-30. [*](#iclr_poster207) ViDT: An Efficient and Effective Fully Transformer-based Object Detector
-31. [*](#iclr_poster226) Decoupled Adaptation for Cross-Domain Object Detection
-32. [*](#iclr_poster230) Objects in Semantic Topology
-33. [*](#iclr_poster235) MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
-34. [*](#iclr_poster244) Pix2seq: A Language Modeling Framework for Object Detection
-35. [*](#iclr_poster260) CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention
-36. [*](#iclr_poster266) AS-MLP: An Axial Shifted MLP Architecture for Vision
-37. [*](#iclr_poster268) Unsupervised Discovery of Object Radiance Fields
-38. [*](#iclr_poster279) VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
-39. [*](#iclr_poster327) Open-vocabulary Object Detection via Vision and Language Knowledge Distillation
-40. [*](#iclr_poster386) ComPhy: Compositional Physical Reasoning of Objects and Events from Videos
-41. [*](#iclr_poster422) Few-Shot Backdoor Attacks on Visual Object Tracking
-42. [*](#iclr_poster437) DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools
-43. [*](#iclr_poster485) R4D: Utilizing Reference Objects for Long-Range Distance Estimation
-44. [*](#iclr_poster486) Eigencurve: Optimal Learning Rate Schedule for SGD on Quadratic Objectives with Skewed Hessian Spectrums
-45. [*](#iclr_poster529) MonoDistill: Learning Spatial Features for Monocular 3D Object Detection
-46. [*](#iclr_poster553) Object Pursuit: Building a Space of Objects via Discriminative Weight Generation
-47. [*](#iclr_poster587) Capacity of Group-invariant Linear Readouts from Equivariant Representations: How Many Objects can be Linearly Classified Under All Possible Views?
-48. [*](#iclr_poster626) Quadtree Attention for Vision Transformers
-49. [*](#iclr_poster654) GiraffeDet: A Heavy-Neck Paradigm for Object Detection
-50. [*](#iclr_poster659) IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes
-51. [*](#iclr_poster663) Network Augmentation for Tiny Deep Learning
-52. [*](#iclr_poster752) Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity
-53. [*](#iclr_poster776) Conditional Object-Centric Learning from Video
-54. [*](#iclr_poster787) Preference Conditioned Neural Multi-objective Combinatorial Optimization
-55. [*](#iclr_poster815) NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy
-56. [*](#iclr_poster821) Learning Object-Oriented Dynamics for Planning from Text
-57. [*](#iclr_poster855) Autonomous Learning of Object-Centric Abstractions for High-Level Planning
-58. [*](#iclr_poster857) Enabling Arbitrary Translation Objectives with Adaptive Tree Search
+5. [*](#iclr_poster5) Generative Principal Component Analysis
+6. [*](#iclr_poster14) WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
+7. [*](#iclr_poster29) Memory Replay with Data Compression for Continual Learning
+8. [*](#iclr_poster30) Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
+9. [*](#iclr_poster75) Multi-objective Optimization by Learning Space Partition
+10. [*](#iclr_poster76) Auto-scaling Vision Transformers without Training
+11. [*](#iclr_poster114) FP-DETR: Detection Transformer Advanced by Fully Pre-training
+12. [*](#iclr_poster117) Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception
+13. [*](#iclr_poster121) VOS: Learning What You Don't Know by Virtual Outlier Synthesis
+14. [*](#iclr_poster146) PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions
+15. [*](#iclr_poster167) Learning Transferable Reward for Query Object Localization with Policy Adaptation
+16. [*](#iclr_poster202) QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization
+17. [*](#iclr_poster207) ViDT: An Efficient and Effective Fully Transformer-based Object Detector
+18. [*](#iclr_poster226) Decoupled Adaptation for Cross-Domain Object Detection
+19. [*](#iclr_poster230) Objects in Semantic Topology
+20. [*](#iclr_poster235) MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer
+21. [*](#iclr_poster244) Pix2seq: A Language Modeling Framework for Object Detection
+22. [*](#iclr_poster260) CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention
+23. [*](#iclr_poster266) AS-MLP: An Axial Shifted MLP Architecture for Vision
+24. [*](#iclr_poster268) Unsupervised Discovery of Object Radiance Fields
+25. [*](#iclr_poster279) VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects
+26. [*](#iclr_poster327) Open-vocabulary Object Detection via Vision and Language Knowledge Distillation
+27. [*](#iclr_poster386) ComPhy: Compositional Physical Reasoning of Objects and Events from Videos
+28. [*](#iclr_poster422) Few-Shot Backdoor Attacks on Visual Object Tracking
+29. [*](#iclr_poster437) DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools
+30. [*](#iclr_poster485) R4D: Utilizing Reference Objects for Long-Range Distance Estimation
+31. [*](#iclr_poster486) Eigencurve: Optimal Learning Rate Schedule for SGD on Quadratic Objectives with Skewed Hessian Spectrums
+32. [*](#iclr_poster529) MonoDistill: Learning Spatial Features for Monocular 3D Object Detection
+33. [*](#iclr_poster553) Object Pursuit: Building a Space of Objects via Discriminative Weight Generation
+34. [*](#iclr_poster587) Capacity of Group-invariant Linear Readouts from Equivariant Representations: How Many Objects can be Linearly Classified Under All Possible Views?
+35. [*](#iclr_poster626) Quadtree Attention for Vision Transformers
+36. [*](#iclr_poster654) GiraffeDet: A Heavy-Neck Paradigm for Object Detection
+37. [*](#iclr_poster659) IFR-Explore: Learning Inter-object Functional Relationships in 3D Indoor Scenes
+38. [*](#iclr_poster663) Network Augmentation for Tiny Deep Learning
+39. [*](#iclr_poster752) Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity
+40. [*](#iclr_poster776) Conditional Object-Centric Learning from Video
+41. [*](#iclr_poster787) Preference Conditioned Neural Multi-objective Combinatorial Optimization
+42. [*](#iclr_poster815) NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy
+43. [*](#iclr_poster821) Learning Object-Oriented Dynamics for Planning from Text
+44. [*](#iclr_poster855) Autonomous Learning of Object-Centric Abstractions for High-Level Planning
+45. [*](#iclr_poster857) Enabling Arbitrary Translation Objectives with Adaptive Tree Search
 
 > oral
 #### iclr_oral18
@@ -69,86 +56,21 @@
 - This paper presents a simple MLP-like architecture, CycleMLP, which is a versatile backbone for visual recognition and dense predictions. As compared to modern MLP architectures, e.g. , MLP-Mixer, ResMLP, and gMLP, whose architectures are correlated to image size and thus are infeasible in object detection and segmentation, CycleMLP has two advantages compared to modern approaches. (1) It can cope
 
 > spotlight
-#### iclr_spotlight5
-##### Generative Principal Component Analysis
+#### iclr_spotlight70
+##### On the Connection between Local Attention and Dynamic Depth-wise Convolution
 - [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=pgir5f7ekAL)
-- In this paper, we study the problem of principal component analysis with generative modeling assumptions, adopting a general model for the observed matrix that encompasses notable special cases, including spiked matrix recovery and phase retrieval. The key assumption is that the underlying signal lies near the range of an $L$-Lipschitz continuous generative model with bounded $k$-dimensional inputs. We propose a quadratic estimator, and show that it enjoys a statistical rate of order $\sqrt{\frac{k\log L}{m}}$ on the squared error, where $m$ is the number of samples. Moreover, we provide a variant of the classic power method, which projects the calculated data onto the range of the generative model during each iteration. We show that under suitable conditions, this method converges linearly to a point achieving the above-mentioned statistical rate. This rate is conjectured in~\citep{aubin2019spiked,cocola2020nonasymptotic} to be the best possible even when we only restrict to the special case of spiked matrix models. We perform experiments on various image datasets for spiked matrix and phase retrieval models, and illustrate performance gains of our method to the classic power method and the truncated power method devised for sparse principal component analysis.
-#### iclr_spotlight14
-##### WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
+- [link](https://openreview.net/forum?id=L3_SsSNMmy)
+- Vision Transformer (ViT) attains state-of-the-art performance in visual recognition, and the variant, Local Vision Transformer, makes further improvements. The major component in Local Vision Transformer, local attention, performs the attention separately over small local windows. We rephrase local attention as a channel-wise locally-connected layer and analyze it from two network regularization manners, sparse connectivity and weight sharing, as well as dynamic weight computation. We point out that local attention resembles depth-wise convolution and its dynamic variants in sparse connectivity: there is no connection across channels, and each position is connected to the positions within a small local window. The main differences lie in (i) weight sharing - depth-wise convolution shares connection weights (kernel weights) across spatial positions and attention shares the connection weights across channels, and (ii) dynamic weight computation manners - local attention is based on dot-products between pairwise positions in the local window, and dynamic convolution is based on linear projections conducted on the center representation or the globally pooled representation. The connection between local attention and dynamic depth-wise convolution is empirically verified by the ablation study about weight sharing and dynamic weight computation in Local Vision Transformer and (dynamic) depth-wise convolution. We empirically observe that the models based on depth-wise convolution and the dynamic variants with lower computation complexity perform on-par with or slightly better than Swin Transformer, an instance of Local Vision Transformer, for ImageNet classification, COCO object detection and ADE semantic segmentation.
+#### iclr_spotlight72
+##### Omni-Dimensional Dynamic Convolution
 - [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=ahi2XSHpAUZ)
-- Monocular 3D object detection is one of the most challenging tasks in 3D scene understanding. Due to the ill-posed nature of monocular imagery, existing monocular 3D detection methods highly rely on training with the manually annotated 3D box labels on the LiDAR point clouds. This annotation process is very laborious and expensive. To dispense with the reliance on 3D box labels, in this paper we explore the weakly supervised monocular 3D detection. Specifically, we first detect 2D boxes on the image. Then, we adopt the generated 2D boxes to select corresponding RoI LiDAR points as the weak supervision. Eventually, we adopt a network to predict 3D boxes which can tightly align with associated RoI LiDAR points. This network is learned by minimizing our newly-proposed 3D alignment loss between the 3D box estimates and the corresponding RoI LiDAR points. We will illustrate the potential challenges of the above learning problem and resolve these challenges by introducing several effective designs into our method. Without using any 3D box label for training, our method obtains 16.47 AP in KITTI, which even outperforms many prior fully supervised methods. Codes will be made publicly available soon.
-#### iclr_spotlight29
-##### Memory Replay with Data Compression for Continual Learning
+- [link](https://openreview.net/forum?id=DmpCfq6Mg39)
+- Learning a single static convolutional kernel in each convolutional layer is the common training paradigm of modern Convolutional Neural Networks (CNNs). Instead, recent research in dynamic convolution shows that learning a linear combination of n convolutional kernels weighted adaptively with their input-dependent attentions can significantly improve the accuracy of light-weight CNNs, while maintaining efficient inference. However, we observe that existing works endow convolutional kernels with the dynamic property through one dimension (regarding the convolutional kernel number) of the kernel space, but the other three dimensions (regarding the spatial size, the input channel number and the output channel number for each convolutional kernel) are overlooked. Inspired by this, we present Omni-dimensional Dynamic Convolution (ODConv), a more powerful dynamic convolution design, to advance this line of research. ODConv leverages a multi-dimensional attention mechanism with a parallel strategy to learn complementary attentions for convolutional kernels along all four dimensions of the kernel space at any convolutional layer. As a drop-in replacement of regular convolutions, ODConv can be plugged into many prevailing CNN architectures. Extensive experiments on the ImageNet and MS-COCO datasets show that ODConv brings solid accuracy boosts for various CNN backbones including both light-weight (e.g., MobileNetV2 family) and large ones (e.g., ResNet family). Intriguingly, thanks to its improved feature extraction ability, ODConv with even one single kernel can compete with or outperform existing dynamic convolution counterparts with multiple kernels, introducing substantially fewer extra parameters to the final models. Code will be made publicly available.
+#### iclr_spotlight100
+##### Autoregressive Quantile Flows for Predictive Uncertainty Estimation
 - [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=a7H7OucbWaU)
-- To continually learn a sequence of tasks, deep neural networks need to overcome catastrophic forgetting of the past. Memory replay of representative old training samples has been shown as an effective solution, and achieves the state-of-the-art (SOTA) performance. However, existing memory replay approaches are mainly built on a small memory buffer containing a few original data, which cannot fully characterize the old data distribution. In this work, we propose memory replay with data compression, which is an important yet neglected baseline and a promising direction for continual learning. Data compression can largely reduce the storage of old training samples and thus increase their amount that can be stored in the memory buffer. We empirically validate that there is a trade-off between the quantity and quality of compressed data, which is highly nontrivial for the efficacy of memory replay. Then we propose a novel method based on determinantal point processes (DPPs) to efficiently determine an appropriate quality of data compression for memory replay. Across several benchmarks of class-incremental learning, using a naive technique of data compression with a properly selected quality can achieve the SOTA performance in a time-efficient and plug-and-play way. We further demonstrate the advantages of our proposal in realistic continual learning of object detection for autonomous driving, where the incremental data are extremely large-scale with high storage cost.
-#### iclr_spotlight30
-##### Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=BZnnMbt0pW)
-- Growing interests in RGB-D salient object detection (RGB-D SOD) have been witnessed in recent years, owing partly to the popularity of depth sensors and the rapid progress of deep learning techniques. Unfortunately, existing RGB-D SOD methods typically demand large quantity of training images being thoroughly annotated at pixel-level. The laborious and time-consuming manual annotation has become a real bottleneck in various practical scenarios. On the other hand, current unsupervised RGB-D SOD methods still heavily rely on handcrafted feature representations. This inspires us to propose in this paper a deep unsupervised RGB-D saliency detection approach, which requires no manual pixel-level annotation during training. It is realized by two key ingredients in our training pipeline. First, a depth-disentangled saliency update (DSU) framework is designed to automatically produce pseudo-labels with iterative follow-up refinements, which provides more trustworthy supervision signals for training the saliency network. Second, an attentive training strategy is introduced to tackle the issue of noisy pseudo-labels, by properly re-weighting to highlight the more reliable pseudo-labels. Extensive experiments demonstrate the superior efficiency and effectiveness of our approach in tackling the challenging unsupervised RGB-D SOD scenarios. Moreover, our approach can also be adapted to work in fully-supervised situation. Empirical studies show the incorporation of our approach gives rise to notably performance improvement in existing supervised RGB-D SOD models.
-#### iclr_spotlight55
-##### Generative Principal Component Analysis
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=pgir5f7ekAL)
-- In this paper, we study the problem of principal component analysis with generative modeling assumptions, adopting a general model for the observed matrix that encompasses notable special cases, including spiked matrix recovery and phase retrieval. The key assumption is that the underlying signal lies near the range of an $L$-Lipschitz continuous generative model with bounded $k$-dimensional inputs. We propose a quadratic estimator, and show that it enjoys a statistical rate of order $\sqrt{\frac{k\log L}{m}}$ on the squared error, where $m$ is the number of samples. Moreover, we provide a variant of the classic power method, which projects the calculated data onto the range of the generative model during each iteration. We show that under suitable conditions, this method converges linearly to a point achieving the above-mentioned statistical rate. This rate is conjectured in~\citep{aubin2019spiked,cocola2020nonasymptotic} to be the best possible even when we only restrict to the special case of spiked matrix models. We perform experiments on various image datasets for spiked matrix and phase retrieval models, and illustrate performance gains of our method to the classic power method and the truncated power method devised for sparse principal component analysis.
-#### iclr_spotlight64
-##### WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=ahi2XSHpAUZ)
-- Monocular 3D object detection is one of the most challenging tasks in 3D scene understanding. Due to the ill-posed nature of monocular imagery, existing monocular 3D detection methods highly rely on training with the manually annotated 3D box labels on the LiDAR point clouds. This annotation process is very laborious and expensive. To dispense with the reliance on 3D box labels, in this paper we explore the weakly supervised monocular 3D detection. Specifically, we first detect 2D boxes on the image. Then, we adopt the generated 2D boxes to select corresponding RoI LiDAR points as the weak supervision. Eventually, we adopt a network to predict 3D boxes which can tightly align with associated RoI LiDAR points. This network is learned by minimizing our newly-proposed 3D alignment loss between the 3D box estimates and the corresponding RoI LiDAR points. We will illustrate the potential challenges of the above learning problem and resolve these challenges by introducing several effective designs into our method. Without using any 3D box label for training, our method obtains 16.47 AP in KITTI, which even outperforms many prior fully supervised methods. Codes will be made publicly available soon.
-#### iclr_spotlight79
-##### Memory Replay with Data Compression for Continual Learning
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=a7H7OucbWaU)
-- To continually learn a sequence of tasks, deep neural networks need to overcome catastrophic forgetting of the past. Memory replay of representative old training samples has been shown as an effective solution, and achieves the state-of-the-art (SOTA) performance. However, existing memory replay approaches are mainly built on a small memory buffer containing a few original data, which cannot fully characterize the old data distribution. In this work, we propose memory replay with data compression, which is an important yet neglected baseline and a promising direction for continual learning. Data compression can largely reduce the storage of old training samples and thus increase their amount that can be stored in the memory buffer. We empirically validate that there is a trade-off between the quantity and quality of compressed data, which is highly nontrivial for the efficacy of memory replay. Then we propose a novel method based on determinantal point processes (DPPs) to efficiently determine an appropriate quality of data compression for memory replay. Across several benchmarks of class-incremental learning, using a naive technique of data compression with a properly selected quality can achieve the SOTA performance in a time-efficient and plug-and-play way. We further demonstrate the advantages of our proposal in realistic continual learning of object detection for autonomous driving, where the incremental data are extremely large-scale with high storage cost.
-#### iclr_spotlight80
-##### Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=BZnnMbt0pW)
-- Growing interests in RGB-D salient object detection (RGB-D SOD) have been witnessed in recent years, owing partly to the popularity of depth sensors and the rapid progress of deep learning techniques. Unfortunately, existing RGB-D SOD methods typically demand large quantity of training images being thoroughly annotated at pixel-level. The laborious and time-consuming manual annotation has become a real bottleneck in various practical scenarios. On the other hand, current unsupervised RGB-D SOD methods still heavily rely on handcrafted feature representations. This inspires us to propose in this paper a deep unsupervised RGB-D saliency detection approach, which requires no manual pixel-level annotation during training. It is realized by two key ingredients in our training pipeline. First, a depth-disentangled saliency update (DSU) framework is designed to automatically produce pseudo-labels with iterative follow-up refinements, which provides more trustworthy supervision signals for training the saliency network. Second, an attentive training strategy is introduced to tackle the issue of noisy pseudo-labels, by properly re-weighting to highlight the more reliable pseudo-labels. Extensive experiments demonstrate the superior efficiency and effectiveness of our approach in tackling the challenging unsupervised RGB-D SOD scenarios. Moreover, our approach can also be adapted to work in fully-supervised situation. Empirical studies show the incorporation of our approach gives rise to notably performance improvement in existing supervised RGB-D SOD models.
-#### iclr_spotlight105
-##### Generative Principal Component Analysis
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=pgir5f7ekAL)
-- In this paper, we study the problem of principal component analysis with generative modeling assumptions, adopting a general model for the observed matrix that encompasses notable special cases, including spiked matrix recovery and phase retrieval. The key assumption is that the underlying signal lies near the range of an $L$-Lipschitz continuous generative model with bounded $k$-dimensional inputs. We propose a quadratic estimator, and show that it enjoys a statistical rate of order $\sqrt{\frac{k\log L}{m}}$ on the squared error, where $m$ is the number of samples. Moreover, we provide a variant of the classic power method, which projects the calculated data onto the range of the generative model during each iteration. We show that under suitable conditions, this method converges linearly to a point achieving the above-mentioned statistical rate. This rate is conjectured in~\citep{aubin2019spiked,cocola2020nonasymptotic} to be the best possible even when we only restrict to the special case of spiked matrix models. We perform experiments on various image datasets for spiked matrix and phase retrieval models, and illustrate performance gains of our method to the classic power method and the truncated power method devised for sparse principal component analysis.
-#### iclr_spotlight114
-##### WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=ahi2XSHpAUZ)
-- Monocular 3D object detection is one of the most challenging tasks in 3D scene understanding. Due to the ill-posed nature of monocular imagery, existing monocular 3D detection methods highly rely on training with the manually annotated 3D box labels on the LiDAR point clouds. This annotation process is very laborious and expensive. To dispense with the reliance on 3D box labels, in this paper we explore the weakly supervised monocular 3D detection. Specifically, we first detect 2D boxes on the image. Then, we adopt the generated 2D boxes to select corresponding RoI LiDAR points as the weak supervision. Eventually, we adopt a network to predict 3D boxes which can tightly align with associated RoI LiDAR points. This network is learned by minimizing our newly-proposed 3D alignment loss between the 3D box estimates and the corresponding RoI LiDAR points. We will illustrate the potential challenges of the above learning problem and resolve these challenges by introducing several effective designs into our method. Without using any 3D box label for training, our method obtains 16.47 AP in KITTI, which even outperforms many prior fully supervised methods. Codes will be made publicly available soon.
-#### iclr_spotlight129
-##### Memory Replay with Data Compression for Continual Learning
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=a7H7OucbWaU)
-- To continually learn a sequence of tasks, deep neural networks need to overcome catastrophic forgetting of the past. Memory replay of representative old training samples has been shown as an effective solution, and achieves the state-of-the-art (SOTA) performance. However, existing memory replay approaches are mainly built on a small memory buffer containing a few original data, which cannot fully characterize the old data distribution. In this work, we propose memory replay with data compression, which is an important yet neglected baseline and a promising direction for continual learning. Data compression can largely reduce the storage of old training samples and thus increase their amount that can be stored in the memory buffer. We empirically validate that there is a trade-off between the quantity and quality of compressed data, which is highly nontrivial for the efficacy of memory replay. Then we propose a novel method based on determinantal point processes (DPPs) to efficiently determine an appropriate quality of data compression for memory replay. Across several benchmarks of class-incremental learning, using a naive technique of data compression with a properly selected quality can achieve the SOTA performance in a time-efficient and plug-and-play way. We further demonstrate the advantages of our proposal in realistic continual learning of object detection for autonomous driving, where the incremental data are extremely large-scale with high storage cost.
-#### iclr_spotlight130
-##### Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=BZnnMbt0pW)
-- Growing interests in RGB-D salient object detection (RGB-D SOD) have been witnessed in recent years, owing partly to the popularity of depth sensors and the rapid progress of deep learning techniques. Unfortunately, existing RGB-D SOD methods typically demand large quantity of training images being thoroughly annotated at pixel-level. The laborious and time-consuming manual annotation has become a real bottleneck in various practical scenarios. On the other hand, current unsupervised RGB-D SOD methods still heavily rely on handcrafted feature representations. This inspires us to propose in this paper a deep unsupervised RGB-D saliency detection approach, which requires no manual pixel-level annotation during training. It is realized by two key ingredients in our training pipeline. First, a depth-disentangled saliency update (DSU) framework is designed to automatically produce pseudo-labels with iterative follow-up refinements, which provides more trustworthy supervision signals for training the saliency network. Second, an attentive training strategy is introduced to tackle the issue of noisy pseudo-labels, by properly re-weighting to highlight the more reliable pseudo-labels. Extensive experiments demonstrate the superior efficiency and effectiveness of our approach in tackling the challenging unsupervised RGB-D SOD scenarios. Moreover, our approach can also be adapted to work in fully-supervised situation. Empirical studies show the incorporation of our approach gives rise to notably performance improvement in existing supervised RGB-D SOD models.
-#### iclr_spotlight155
-##### Generative Principal Component Analysis
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=pgir5f7ekAL)
-- In this paper, we study the problem of principal component analysis with generative modeling assumptions, adopting a general model for the observed matrix that encompasses notable special cases, including spiked matrix recovery and phase retrieval. The key assumption is that the underlying signal lies near the range of an $L$-Lipschitz continuous generative model with bounded $k$-dimensional inputs. We propose a quadratic estimator, and show that it enjoys a statistical rate of order $\sqrt{\frac{k\log L}{m}}$ on the squared error, where $m$ is the number of samples. Moreover, we provide a variant of the classic power method, which projects the calculated data onto the range of the generative model during each iteration. We show that under suitable conditions, this method converges linearly to a point achieving the above-mentioned statistical rate. This rate is conjectured in~\citep{aubin2019spiked,cocola2020nonasymptotic} to be the best possible even when we only restrict to the special case of spiked matrix models. We perform experiments on various image datasets for spiked matrix and phase retrieval models, and illustrate performance gains of our method to the classic power method and the truncated power method devised for sparse principal component analysis.
-#### iclr_spotlight164
-##### WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=ahi2XSHpAUZ)
-- Monocular 3D object detection is one of the most challenging tasks in 3D scene understanding. Due to the ill-posed nature of monocular imagery, existing monocular 3D detection methods highly rely on training with the manually annotated 3D box labels on the LiDAR point clouds. This annotation process is very laborious and expensive. To dispense with the reliance on 3D box labels, in this paper we explore the weakly supervised monocular 3D detection. Specifically, we first detect 2D boxes on the image. Then, we adopt the generated 2D boxes to select corresponding RoI LiDAR points as the weak supervision. Eventually, we adopt a network to predict 3D boxes which can tightly align with associated RoI LiDAR points. This network is learned by minimizing our newly-proposed 3D alignment loss between the 3D box estimates and the corresponding RoI LiDAR points. We will illustrate the potential challenges of the above learning problem and resolve these challenges by introducing several effective designs into our method. Without using any 3D box label for training, our method obtains 16.47 AP in KITTI, which even outperforms many prior fully supervised methods. Codes will be made publicly available soon.
-#### iclr_spotlight179
-##### Memory Replay with Data Compression for Continual Learning
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=a7H7OucbWaU)
-- To continually learn a sequence of tasks, deep neural networks need to overcome catastrophic forgetting of the past. Memory replay of representative old training samples has been shown as an effective solution, and achieves the state-of-the-art (SOTA) performance. However, existing memory replay approaches are mainly built on a small memory buffer containing a few original data, which cannot fully characterize the old data distribution. In this work, we propose memory replay with data compression, which is an important yet neglected baseline and a promising direction for continual learning. Data compression can largely reduce the storage of old training samples and thus increase their amount that can be stored in the memory buffer. We empirically validate that there is a trade-off between the quantity and quality of compressed data, which is highly nontrivial for the efficacy of memory replay. Then we propose a novel method based on determinantal point processes (DPPs) to efficiently determine an appropriate quality of data compression for memory replay. Across several benchmarks of class-incremental learning, using a naive technique of data compression with a properly selected quality can achieve the SOTA performance in a time-efficient and plug-and-play way. We further demonstrate the advantages of our proposal in realistic continual learning of object detection for autonomous driving, where the incremental data are extremely large-scale with high storage cost.
-#### iclr_spotlight180
-##### Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection
-- [Back to List](#spotlight)
-- [link](https://openreview.net/forum?id=BZnnMbt0pW)
-- Growing interests in RGB-D salient object detection (RGB-D SOD) have been witnessed in recent years, owing partly to the popularity of depth sensors and the rapid progress of deep learning techniques. Unfortunately, existing RGB-D SOD methods typically demand large quantity of training images being thoroughly annotated at pixel-level. The laborious and time-consuming manual annotation has become a real bottleneck in various practical scenarios. On the other hand, current unsupervised RGB-D SOD methods still heavily rely on handcrafted feature representations. This inspires us to propose in this paper a deep unsupervised RGB-D saliency detection approach, which requires no manual pixel-level annotation during training. It is realized by two key ingredients in our training pipeline. First, a depth-disentangled saliency update (DSU) framework is designed to automatically produce pseudo-labels with iterative follow-up refinements, which provides more trustworthy supervision signals for training the saliency network. Second, an attentive training strategy is introduced to tackle the issue of noisy pseudo-labels, by properly re-weighting to highlight the more reliable pseudo-labels. Extensive experiments demonstrate the superior efficiency and effectiveness of our approach in tackling the challenging unsupervised RGB-D SOD scenarios. Moreover, our approach can also be adapted to work in fully-supervised situation. Empirical studies show the incorporation of our approach gives rise to notably performance improvement in existing supervised RGB-D SOD models.
+- [link](https://openreview.net/forum?id=z1-I6rOKv1S)
+- Many applications of machine learning require predicting flexible probability distributions over model outputs. We propose Autoregressive Quantile Flows, a flexible class of probabilistic models over high-dimensional variables that can be used to accurately capture predictive aleatoric uncertainties. These models are instances of autoregressive flows that generalize quantile functions to multiple dimensions. They parameterize conditional quantile or cumulative distribution functions and are trained using a novel objective based on the continuous ranked probability score. We demonstrate that these models can be used to parameterize predictive conditional distributions and improve the quality of probabilistic forecasts on tasks ranging from time series forecasting to object detection.
 
 > poster
 #### iclr_poster5
